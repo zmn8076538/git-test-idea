@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Hello HotFix");
         System.out.println("Hello Master");
+        System.out.println("提交本地库到GitHub");
     }
 }
